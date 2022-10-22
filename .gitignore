@@ -1,0 +1,8 @@
+members.csv
+song_extra_info.csv
+songs.csv
+test.csv
+train.csv
+catboost_info
+.ipynb_checkpoints
+*.csv
